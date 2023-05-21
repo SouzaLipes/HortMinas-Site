@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+
+html
+{
+    background-color: #395914;
+}
+
+.container
+{
+    display: flex;
+    width: 375px;
+    height: 812px;
+    margin:0 auto;
+}
+.Fundo{
+    display: flex;
+    width: 90%;
+    height: 90%;
+}
+.button1 {
+    position: absolute;
+    top: 38%;
+    left: 36%;
+    width: 66%;
+    height: 16%;
+    z-index: 1;
+  }
+
+.button2 {
+    position: absolute;
+    top: 52%;
+    left: 36%;
+    width: 66%;
+    height: 16%;
+    z-index: 1;
+  }
